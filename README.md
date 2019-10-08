@@ -23,4 +23,4 @@ and likely some other packages that you will find out to be needed on your syste
 ```bash
 python run.py
 ```
-![][images/screenshot.PNG]
+![](images/screenshot.PNG)
