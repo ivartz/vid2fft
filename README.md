@@ -21,3 +21,5 @@ and likely some other packages that you will find out to be needed on your syste
 python run.py
 ```
 ![](images/screenshot.PNG)
+
+Based on https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_transforms/py_fourier_transform/py_fourier_transform.html and example code from SOL4Py-3.1
